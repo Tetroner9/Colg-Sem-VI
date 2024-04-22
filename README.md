@@ -32,22 +32,22 @@ Experiment 1 - [Study of Different kind of Antena](/EA/Exp%20-%2001/)
 **No Tutorial Required**
 
 Experiment 2 - [Radition Patten of Dipole Antena](/EA/Exp%20-%2002/)  
-[Tutorial]()  
+[Tutorial](/EA/Exp%20-%2002/instructions.txt)  
 
 Experiment 3 - [Simulation of Linear Wire Antena using EZNEC](/EA/Exp%20-%2003/)  
 [Tutorial]()  
 
 Experiment 4 - [Design & Simulation of Microstrip Antena using ANSYS](/EA/Exp%20-%2004/)  
-[Tutorial]()  
+[Tutorial](https://www.youtube.com/watch?v=vHUbV_7f_dE)  
 
 Experiment 5 - [Simulation of Circular Microstrip Antena](/EA/Exp%20-%2005/)  
-[Tutorial]()  
+[Tutorial](https://www.youtube.com/watch?v=uk3kX0YshDY)  
 
 Experiment 6 - [Simulation of Halfwave Dipole Antena using ANSYS HFSS](/EA/Exp%20-%2006/)  
-[Tutorial]()  
+[Tutorial](https://www.youtube.com/watch?v=w2zZY6IJHr8)  
 
 Experiment 7 - [Simulation of Uniform Antena Arrays](/EA/Exp%20-%2007/)  
-[Tutorial]()  
+[Python File](/EA/Exp%20-%2007/main.py)  
 
 ## IPMV
 
