@@ -32,10 +32,10 @@ Experiment 1 - [Study of Different kind of Antena](/EA/Exp%20-%2001/)
 **No Tutorial Required**
 
 Experiment 2 - [Radition Patten of Dipole Antena](/EA/Exp%20-%2002/)  
-[Tutorial](/EA/Exp%20-%2002/instructions.txt)  
+[Instructions](/EA/Exp%20-%2002/instructions.txt)  
 
 Experiment 3 - [Simulation of Linear Wire Antena using EZNEC](/EA/Exp%20-%2003/)  
-[Tutorial]()  
+[Tutorial](/EA/Exp%20-%2003/EA-3.mp4)  
 
 Experiment 4 - [Design & Simulation of Microstrip Antena using ANSYS](/EA/Exp%20-%2004/)  
 [Tutorial](https://youtu.be/LfhH-qs1E4I?si=GJYCX2KJ1UWsy720)  
