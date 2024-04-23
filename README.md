@@ -47,7 +47,7 @@ Experiment 6 - [Simulation of Halfwave Dipole Antena using ANSYS HFSS](/EA/Exp%2
 [Tutorial](https://www.youtube.com/watch?v=w2zZY6IJHr8)  
 
 Experiment 7 - [Simulation of Uniform Antena Arrays](/EA/Exp%20-%2007/)  
-[Python File](/EA/Exp%20-%2007/main.py)  
+[SciLab File](/EA/Exp%20-%2007/7.sci)  
 
 ## IPMV
 
