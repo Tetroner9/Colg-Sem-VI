@@ -50,6 +50,7 @@ Experiment 7 - [Simulation of Uniform Antena Arrays](/EA/Exp%20-%2007/)
 [SciLab File](/EA/Exp%20-%2007/7.sci)  
 
 ## IPMV
+***Tutorials are yet to be added!***
 
 Experiment 1 - [Study of Point Processing Operations](/IPMV/Exp%20-%2001/)  
 [Tutorial]()  
@@ -74,3 +75,9 @@ Experiment 7 - [K - Means Clustering Algorithm](/IPMV/Exp%20-%2007/)
 
 Experiment 8 - [Fuzzy Logic Controller using Wachine Machine](/IPMV/Exp%20-%2008/)  
 [Tutorial]()  
+
+## Question Bank
+
+[IPMV - Answers Folder](/IPMV/Question%20Bank/Answers/)
+
+[SLL - Answer PDF](/SLL/Question%20Bank/SLL%20-%20QB.pdf)
