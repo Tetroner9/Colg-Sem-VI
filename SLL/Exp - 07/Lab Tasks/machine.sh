@@ -1,4 +1,3 @@
-# language: shell
 #!/bin/bash
 
 machine()
