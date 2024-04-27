@@ -38,7 +38,7 @@ Experiment 7 - [Routing using RIP](/CCN/Exp%20-%2007/)
 [Tutorial](https://www.youtube.com/watch?v=LuVQDjwuvjo)  
 
 Experiment 8 - [IP Subnetting](/CCN/Exp%20-%2008/)  
-[Tutorial](https://www.youtube.com/watch?v=HsBJG2tIWmk)  
+[Tutorial](https://youtu.be/3f9z-upxqW4?si=7KDrX7alBaknu-LH)  
 
 ## EA
 
