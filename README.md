@@ -1,4 +1,4 @@
-# Make sure to Star this Repository for all files!
+# Make sure to Star this Repository. It will greatly help me out :)
 
 ## Requirements
 
