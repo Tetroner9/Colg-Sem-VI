@@ -2,12 +2,12 @@
 
 ## Requirements
 
-[Cisco Packet Tracer](https://skillsforall.com/resources/lab-downloads) - ***Registration Rquired!*** </br>
-[Python](https://www.python.org/downloads/)</br>
-[Virtual Box](https://www.virtualbox.org/wiki/Downloads)</br>
-[CentOS](https://centos.mirror.net.in/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-DVD-2009.iso)</br>
-[EZNEC](https://eznec.com/v7download/pro2+download.php)</br>
-[Ansys Electronics](https://www.ansys.com/academic/students/ansys-electronics-desktop-student) - Student 2023 R2
+-  [Cisco Packet Tracer](https://skillsforall.com/resources/lab-downloads) - ***Registration Rquired!*** </br>
+-  [Python](https://www.python.org/downloads/)</br>
+-  [Virtual Box](https://www.virtualbox.org/wiki/Downloads)</br>
+-  [CentOS](https://centos.mirror.net.in/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-DVD-2009.iso)</br>
+-  [EZNEC](https://eznec.com/v7download/pro2+download.php)</br>
+-  [Ansys Electronics](https://www.ansys.com/academic/students/ansys-electronics-desktop-student) - Student 2023 R2
 
 Make sure to install the following packges:</br>
 ```
