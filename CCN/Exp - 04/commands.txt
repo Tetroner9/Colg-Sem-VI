@@ -1,0 +1,47 @@
+ipconfig  
+# Displays the current TCP/IP network configuration values.
+
+ipconfig /all  
+# Displays detailed information about all network interfaces, including physical addresses, DNS servers, and more.
+
+ipconfig /release  
+# Releases the IP address of all adapters or a specific adapter.
+
+ipconfig /renew  
+# Renews the IP address of all adapters or a specific adapter.
+
+ipconfig /flushdns  
+# Flushes and resets the contents of the DNS client resolver cache.
+
+arp -a  
+# Displays the ARP (Address Resolution Protocol) cache, which maps IP addresses to MAC addresses.
+
+systeminfo  
+# Provides detailed configuration information about the computer and its operating system, including hardware and software components.
+
+ping google.com  
+# Sends ICMP echo request packets to the specified domain or IP address to test connectivity.
+
+ping -s 1 google.com  
+# Sends ICMP echo request packets with a size of 1 byte.
+
+ping -s 4 google.com  
+# Sends ICMP echo request packets with a size of 4 bytes.
+
+ping -t google.com  
+# Sends ICMP echo request packets continuously until interrupted, allowing you to monitor the connection.
+
+nslookup  
+# Queries DNS servers to obtain domain name or IP address mapping.
+
+> www.google.com  
+# This is the command prompt within nslookup, allowing you to directly query a domain name. In this case, it's querying the IP address of "www.google.com".
+
+tracert google.com  
+# Traces the route that packets take to reach the specified destination, showing each hop along the way.
+
+netstat  
+# Displays network statistics, including active TCP connections, listening ports, and routing tables.
+
+route  
+# Displays or modifies the computer's routing table, showing the IP routing table for IPv4.

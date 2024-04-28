@@ -26,12 +26,13 @@ Experiment 3 - [Setup & Configure a Simple Enterprise Network](/CCN/Exp%20-%2003
 [Instructions](/CCN/Exp%20-%2003/CCN%20-%203.pdf)  
 
 Experiment 4 - [Networking Commands](/CCN/Exp%20-%2004/)  
-[Instructions](/CCN/Exp%20-%2004/CCN%20-%204.pdf)  
+[Instructions](/CCN/Exp%20-%2004/commands.txt)  
 
 Experiment 5 - [Remote Access using SSH](/CCN/Exp%20-%2005/)  
 [Tutorial](https://www.youtube.com/watch?v=KV2_ySUyYK0)  
 
-Experiment 6 - [IP Traffic Analysis using Wireshark](/CCN/Exp%20-%2006/)  
+Experiment 6 - [IP Traffic Analysis using Wireshark](/CCN/Exp%20-%2006/)</br>
+[HTTP - Tutorial](/CCN//Exp%20-%2004/http-wireshark.mp4)  
 [Tutorial](https://www.youtube.com/watch?v=zWoHJ3oGRGY)  
 
 Experiment 7 - [Routing using RIP](/CCN/Exp%20-%2007/)  
