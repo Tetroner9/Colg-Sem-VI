@@ -29,7 +29,8 @@ Experiment 4 - [Networking Commands](/CCN/Exp%20-%2004/)
 [Instructions](/CCN/Exp%20-%2004/commands.txt)  
 
 Experiment 5 - [Remote Access using SSH](/CCN/Exp%20-%2005/)  
-[Tutorial](https://www.youtube.com/watch?v=KV2_ySUyYK0)  
+[Tutorial - SSH](https://www.youtube.com/watch?v=KV2_ySUyYK0)  
+[Tutorial - Telnet](https://youtu.be/7z3G86vGaow?si=WuaxVqjpQ5STEQNA)
 
 Experiment 6 - [IP Traffic Analysis using Wireshark](/CCN/Exp%20-%2006/)</br>
 [HTTP - Tutorial](/CCN//Exp%20-%2004/http-wireshark.mp4)  
@@ -39,7 +40,8 @@ Experiment 7 - [Routing using RIP](/CCN/Exp%20-%2007/)
 [Tutorial](https://www.youtube.com/watch?v=LuVQDjwuvjo)  
 
 Experiment 8 - [IP Subnetting](/CCN/Exp%20-%2008/)  
-[Tutorial](https://youtu.be/3f9z-upxqW4?si=7KDrX7alBaknu-LH)  
+[How to find Subnet from IP](https://youtu.be/EZTQ61njgKI?si=_MD1i_jFao2d8z6z)
+[Tutorial - Main](https://youtu.be/3f9z-upxqW4?si=7KDrX7alBaknu-LH)  
 
 ## EA
 
