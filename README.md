@@ -20,7 +20,8 @@ Experiment 1 - [Setup & Configuration of LAN](/CCN/Exp%20-%2001/)
 [Tutorial](https://www.youtube.com/watch?v=AlR-zK2VaMM)
 
 Experiment 2 - [Configuration of DHCP Server](/CCN/Exp%20-%2002/)  
-[Tutorial](https://www.youtube.com/watch?v=DsL_JEdMPXg)  
+[Tutorial - DHCP Router](https://www.youtube.com/watch?v=DsL_JEdMPXg)  
+[Tutorial - DHCP Switch](https://youtu.be/pkjRP5bdkTU?si=C4DURGCgbY_Gyrs9)
 
 Experiment 3 - [Setup & Configure a Simple Enterprise Network](/CCN/Exp%20-%2003/)  
 [Instructions](/CCN/Exp%20-%2003/CCN%20-%203.pdf)  
