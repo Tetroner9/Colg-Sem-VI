@@ -1,9 +1,0 @@
-$begin 'Surface Mesh Header'
-	Version='1.0'
-	BigEndian=false
-	DataFormat='BINARY'
-	DataPrecision='Double'
-	NumVertices=124
-	NumMidPoints=0
-	NumTriangles=244
-$end 'Surface Mesh Header'

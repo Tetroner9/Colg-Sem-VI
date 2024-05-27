@@ -16,17 +16,17 @@ pip install jupyterlab notebook matplotlib numpy opencv-python opencv-python-hea
 
 ## CCN
 
-Experiment 1 - [Setup & Configuration of LAN](/CCN/Exp%20-%2001/)  
+Experiment 1 - [Setup & Configuration of LAN](/CCN/Exp-01/)  
 [Tutorial](https://www.youtube.com/watch?v=AlR-zK2VaMM)
 
-Experiment 2 - [Configuration of DHCP Server](/CCN/Exp%20-%2002/)  
+Experiment 2 - [Configuration of DHCP Server](/CCN/Exp-02/)  
 [Tutorial - DHCP Router](https://www.youtube.com/watch?v=DsL_JEdMPXg)  
 [Tutorial - DHCP Switch](https://youtu.be/pkjRP5bdkTU?si=C4DURGCgbY_Gyrs9)
 
-Experiment 3 - [Setup & Configure a Simple Enterprise Network](/CCN/Exp%20-%2003/)  
+Experiment 3 - [Setup & Configure a Simple Enterprise Network](/CCN/Exp-03/)  
 [Instructions](/CCN/Exp%20-%2003/CCN%20-%203.pdf)  
 
-Experiment 4 - [Networking Commands](/CCN/Exp%20-%2004/)  
+Experiment 4 - [Networking Commands](/CCN/Exp-04/)  
 [Instructions](/CCN/Exp%20-%2004/commands.txt)  
 
 Experiment 5 - [Remote Access using SSH](/CCN/Exp%20-%2005/)  
