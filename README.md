@@ -68,7 +68,7 @@ Experiment 7 - [Simulation of Uniform Antena Arrays](/EA/Exp-07/)
 [SciLab File](/EA/Exp-07/7.sci)  
 
 ## IPMV
-***Tutorials are yet to be added!***
+***Tutorials are yet to be added!* (It will probarly take a long time to add)**
 
 Experiment 1 - [Study of Point Processing Operations](/IPMV/Exp-01/)  
 [Tutorial]()  
